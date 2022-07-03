@@ -10,4 +10,4 @@ eureka:
 test:
   profile: local!!
 greeting:
-  message: greeting test
+  message: change message
