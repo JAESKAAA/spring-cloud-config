@@ -9,3 +9,5 @@ eureka:
 
 test:
   profile: local!!
+greeting:
+  message: greeting test
