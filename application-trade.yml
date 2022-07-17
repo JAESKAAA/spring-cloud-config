@@ -11,3 +11,6 @@ test:
   profile: trade
 greeting:
   message: trade config test message
+
+discode:
+  webhook: https://discord.com/api/webhooks/994567617052422184/whINZv_sW1i6Zr0ohGokuif0XyefGCNOnIiauHsxKpcwnbE6N6PDO6R_XU7Z5ZX0xZRs
