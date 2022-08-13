@@ -1,7 +1,4 @@
 # 로컬 profile 적용되는 config파일
-server:
-  port: 0
-
 eureka:
   client:
     service-url:
