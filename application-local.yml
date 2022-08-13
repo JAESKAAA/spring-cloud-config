@@ -11,3 +11,6 @@ test:
   profile: local!!
 greeting:
   message: actuator test333!!!
+
+discord:
+  webhook: https://discord.com/api/webhooks/994567617052422184/whINZv_sW1i6Zr0ohGokuif0XyefGCNOnIiauHsxKpcwnbE6N6PDO6R_XU7Z5ZX0xZRs
