@@ -5,4 +5,4 @@ eureka:
       default-zone: http://eureka1:8761/eureka/
 
 test:
-  profile: default!!
+  profile: default!!!
